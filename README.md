@@ -1,6 +1,6 @@
 # Dynamic PDF Data Extraction System
 
-## [cite_start]Approach & Assumptions [cite: 7, 8]
+## Approach & Assumptions 
 This project implements a system to extract unstructured tabular data from PDFs (e.g., Balance Sheets), convert it to JSON, and store it in a relational database with a **dynamic schema**.
 
 ### 1. Architecture
